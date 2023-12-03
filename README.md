@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaeeb&label=Profile%20views&color=0e75b6&style=flat" alt="shoaeeb" /> </p>
 
-- 🔭 I’m currently working on **Social Media Website**
+
 
 - 🌱 I’m currently learning **React,NodeJs,Express,MongoDb,NextJs**
-
-- 👯 I’m looking to collaborate on **30-days-of-javascript**
 
 - 💬 Ask me about **HTML,CSS and JAVASCRIPT**
 
